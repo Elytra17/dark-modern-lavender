@@ -1,4 +1,4 @@
-# Dark Modern Lavender
+# Dark Modern Lavender for VS Code
 
 The "Dark Modern" theme that we all know and love, but with lavender and blurple accents instead of blue.
 Also with some changed syntax colors that resemble cotton candy (i love that thing).
@@ -21,4 +21,5 @@ Also with some changed syntax colors that resemble cotton candy (i love that thi
 - Mainly my Discord server at https://discord.gg/Rs6SPWEe7a
 
 ## 📜 License
+
 This theme is released under the [MIT License](./LICENSE).
