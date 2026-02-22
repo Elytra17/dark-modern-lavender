@@ -2,7 +2,7 @@
   "name": "dark-modern-lavender",
   "displayName": "Dark Modern Lavender",
   "description": "A customized variant of the Dark Modern theme with lavender/blurple accents.",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "publisher": "Elytra17",
   "license": "MIT",
   "keywords": ["theme", "dark", "lavender", "blurple", "vanilla", "modern"],
@@ -29,3 +29,4 @@
     "url": "https://github.com/Elytra17/dark-modern-lavender"
   }
 }
+
