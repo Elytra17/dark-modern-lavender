@@ -9,10 +9,13 @@ Also with some changed syntax colors that resemble cotton candy (i love that thi
 - Semantic highlighting enabled for modern language support
 
 ## 📥 Installation
-1. Download the `.vsix` file or install directly from the Marketplace.
-2. In VS Code, go to **Extensions** → click the three dots → **Install from VSIX…**.
-3. Select `dark-modern-lavender.vsix`.
-4. Activate the theme: **Preferences → Color Theme → Dark Modern Lavender**.
+1. Open Visual Studio Code.
+2. Go to **Extensions** -> **Search** -> Type **"Dark Modern Lavender"**.
+3. Select the top result (creator's name should be "Elytra17").
+4. Install the theme.
+5. Click the button that says **"Set Color Theme"**.
+                        OR
+6. Go to **File** (in the top bar) -> **Preferences** -> **Themes** -> **Color Theme** -> Select **"Dark Modern Lavender"**.
 
 ## 🖼️ Screenshot
 ![Theme preview](./screenshot.png)
@@ -23,3 +26,4 @@ Also with some changed syntax colors that resemble cotton candy (i love that thi
 ## 📜 License
 
 This theme is released under the [MIT License](./LICENSE).
+
