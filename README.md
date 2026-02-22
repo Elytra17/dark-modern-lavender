@@ -13,7 +13,7 @@ Also with some changed syntax colors that resemble cotton candy (i love that thi
 2. Go to **Extensions** -> **Search** -> Type **"Dark Modern Lavender"**.
 3. Select the top result (creator's name should be "Elytra17").
 4. Install the theme.
-5. Click the button that says **"Set Color Theme"** OR Go to **File** (in the top bar) -> **Preferences** -> **Themes** -> **Color Theme** -> Select **"Dark Modern Lavender"**.
+5. Click the button that says **"Set Color Theme"**   OR   Go to **File** (in the top bar) -> **Preferences** -> **Themes** -> **Color Theme** -> Select **"Dark Modern Lavender"**.
 
 ## 🖼️ Screenshot
 ![Theme preview](./screenshot.png)
@@ -24,6 +24,7 @@ Also with some changed syntax colors that resemble cotton candy (i love that thi
 ## 📜 License
 
 This theme is released under the [MIT License](./LICENSE).
+
 
 
 
